@@ -54,11 +54,13 @@
 - PPT created in this Project: <a href = "Lung Cancer Analysis  Project.pdf"> Presentation </a>
 
 ###
-
-### **Key Insights & Findings**
 ![Screenshot 2025-02-24 154504](https://github.com/user-attachments/assets/066cfd47-41d4-43b7-9441-eceee1ee6be2)
+
 ![Screenshot 2025-02-24 154613](https://github.com/user-attachments/assets/a70a8535-3560-4c11-95ed-ce0174a0abff)
+
 ![Screenshot 2025-02-24 154537](https://github.com/user-attachments/assets/c2da04f0-144c-49e9-9eb6-1dbfc1c58c34)
+
+## **Key Insights & Findings**
 
 ### **High-Level Observations on Lung Cancer:**
 
