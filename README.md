@@ -49,9 +49,9 @@
 
 - Pbix Files : <a href = "Lung Cancer Analysis  Project.pdf"> Power BI File</a>
 
-- Dataset file: <a href = "Lung Cancer Analysis  Project.pdf"> Power BI File</a>
+- Dataset file: <a href = "\lung_cancer_Dataset.csv"> Lung Cancer Dataset</a>
 
-- PPT created in this Project: <a href = "Lung Cancer Analysis  Project.pdf"> Power BI File</a>
+- PPT created in this Project: <a href = "Lung Cancer Analysis  Project.pdf"> Presentation </a>
 
 ###
 
