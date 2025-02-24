@@ -56,9 +56,9 @@
 ###
 
 ### **Key Insights & Findings**
-![Screenshot 2025-02-24 154613](https://github.com/user-attachments/assets/3b0148d5-4203-4e2b-89cf-f7dfc1504ea7)
-![Screenshot 2025-02-24 154537](https://github.com/user-attachments/assets/b6e17faf-b143-43ba-98cc-8c139012c24f)
-![Screenshot 2025-02-24 154613](https://github.com/user-attachments/assets/1562ba96-5a76-4c1b-9b21-ba306dd14c5a)
+![Screenshot 2025-02-24 154504](https://github.com/user-attachments/assets/066cfd47-41d4-43b7-9441-eceee1ee6be2)
+![Screenshot 2025-02-24 154613](https://github.com/user-attachments/assets/a70a8535-3560-4c11-95ed-ce0174a0abff)
+![Screenshot 2025-02-24 154537](https://github.com/user-attachments/assets/c2da04f0-144c-49e9-9eb6-1dbfc1c58c34)
 
 ### **High-Level Observations on Lung Cancer:**
 
