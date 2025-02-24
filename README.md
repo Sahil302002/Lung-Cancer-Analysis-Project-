@@ -56,6 +56,9 @@
 ###
 
 ### **Key Insights & Findings**
+![Screenshot 2025-02-24 154613](https://github.com/user-attachments/assets/3b0148d5-4203-4e2b-89cf-f7dfc1504ea7)
+![Screenshot 2025-02-24 154537](https://github.com/user-attachments/assets/b6e17faf-b143-43ba-98cc-8c139012c24f)
+![Screenshot 2025-02-24 154613](https://github.com/user-attachments/assets/1562ba96-5a76-4c1b-9b21-ba306dd14c5a)
 
 ### **High-Level Observations on Lung Cancer:**
 
